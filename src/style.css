@@ -45,13 +45,13 @@ h4 {
 }
 
 body {
-  background: url("./images/bg-all.png");
+  background: url("/images/bg-all.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 #landing {
-  background: url("./images/bg-landing-img.png");
+  background: url("/images/bg-landing-img.png");
   background-repeat: no-repeat;
   background-size: cover;
 }
