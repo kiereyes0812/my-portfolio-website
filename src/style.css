@@ -1,0 +1,91 @@
+
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar {
+  background-color: #412728;
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+}
+
+.navbar-nav .nav-link {
+  color: #f9f871 !important;
+}
+
+
+.navbar a img {
+  height: 60px;
+  width: 60px;
+}
+
+.profile-pic {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+
+h2 {
+  font-family: Montserrat;
+  font-weight: 900;
+  font-size: 24px;
+  line-height: 24px;
+  color: #f9f871;
+}
+
+h4 {
+  font-family: Montserrat;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 24px;
+  color: #f9f871;
+}
+
+body {
+  background: url("./images/bg-all.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#landing {
+  background: url("./images/bg-landing-img.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-title {
+  color: #7f4d3e !important;
+  font-family: Montserrat;
+  font-weight: 700;
+}
+
+.card-text {
+  color: #7f4d3e !important;
+  font-family: Montserrat;
+  font-weight: 500;
+}
+
+#tools img {
+  height: 200px;
+  width: 200px;
+}
+
+.tools-logo {
+  background: rgba(127, 77, 62, 0.61);
+
+  border-radius: 5px;
+}
+
+#footer {
+  font-family: Montserrat;
+  background-color: #412728 !important;
+}
+
+#top a{
+  text-decoration: none;
+  color: #f9f871;
+  font-family: Montserrat;
+}
